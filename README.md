@@ -1,9 +1,8 @@
 # Railway-Crowd-Management-System-for-Suburban-Railway-using-Image-Processing-
 
-➢ Built and improved a Web scraping code for George Mason University in coordination with the university's research
-assistant.
+➢ A passenger safety APP on which Crowd details of Railway Compartments and Foot Over Bridge (F.O.B.) was displayed.
 
-➢ Extracted and converted information of multiple companies from the Dow Jones to a CSV file, further programmed a
-sentimental analysis of this data using N.L.P.
+➢ Extracted data with cameras installed at various Compartments, F.O.B., and Booking counters, which was processed and
+analyzed using Image Processing algorithms and tools.
 
-➢ Technology: Python (NumPy, pandas, sklearn, Selenium, Beautiful Soup)
+
